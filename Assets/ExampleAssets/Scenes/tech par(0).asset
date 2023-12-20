@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: tech par(0)
+  m_EditorClassIdentifier: 
+  Name: 
+  Points:
+  - Location:
+      Latitude: 12.82464828449698
+      Longitude: 80.04518043033782
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: Start
+    Instruction: starting
+  - Location:
+      Latitude: 12.82452950916196
+      Longitude: 80.04518678129112
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: left turn
+    Instruction: turn left
+  - Location:
+      Latitude: 12.82452440122166
+      Longitude: 80.04526461102216
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82439889135258
+      Longitude: 80.0453821013181
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82442793171431
+      Longitude: 80.04558955860729
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82441290894591
+      Longitude: 80.04578869759146
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82441964589315
+      Longitude: 80.04604210730434
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82443878311379
+      Longitude: 80.04617823032221
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: End
+    Instruction: The End
+  SceneViewScale: 1

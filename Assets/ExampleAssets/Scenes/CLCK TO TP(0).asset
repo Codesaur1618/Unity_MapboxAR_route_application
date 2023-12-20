@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: CLCK TO TP(0)
+  m_EditorClassIdentifier: 
+  Name: 
+  Points:
+  - Location:
+      Latitude: 12.82297612659872
+      Longitude: 80.04469420859552
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82303597373949
+      Longitude: 80.04476275831092
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82307914209084
+      Longitude: 80.04480815798438
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82313487943159
+      Longitude: 80.04482262895914
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82318557713932
+      Longitude: 80.04482903211408
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82326172708718
+      Longitude: 80.04483205701364
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82340903860118
+      Longitude: 80.04483281046369
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82350237165817
+      Longitude: 80.04483473427025
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.8236630159944
+      Longitude: 80.04482817484944
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82384910535642
+      Longitude: 80.04482715313773
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82409696876806
+      Longitude: 80.04482007144894
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82432772702476
+      Longitude: 80.04480853434546
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82440010206407
+      Longitude: 80.04485478155034
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82444378355273
+      Longitude: 80.04498928542556
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 0
+    Name: 
+    Instruction: 
+  - Location:
+      Latitude: 12.82444223375901
+      Longitude: 80.04519429277887
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 
+    Instruction: 
+  SceneViewScale: 1
